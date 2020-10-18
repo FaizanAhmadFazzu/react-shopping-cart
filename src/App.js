@@ -10,7 +10,7 @@ function App() {
       </header>
       <main>Product List</main>
       <footer>All right is reserved.</footer>
-er>
+    </div>
   );
 }
 
